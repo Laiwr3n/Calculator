@@ -1,2 +1,2 @@
 # Calculator
-A sample calculation function
+A = gbjkodv nsm
